@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+tr:nth-child(even) {background: rgba(222, 222, 222, 0.78)}
+tr:nth-child(odd) {background: #FFF}
+
+.name {
+	width: 20em;
+}
+.username {
+	width: 10em;
+}
+.pwdlastset {
+	width: 9em;
+}
+.reset_link_width {
+	width: 30em;
+}
+
+.reset_link {
+	text-decoration: underline;
+	color: blue;
+	cursor: pointer;
+}
+.reset_link_used {
+	text-decoration: none;
+	color: default;
+}

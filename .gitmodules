@@ -1,0 +1,9 @@
+[submodule "adtools"]
+	path = adtools
+	url = https://github.com/datagutten/adtools.git
+[submodule "PHPMailer"]
+	path = PHPMailer
+	url = https://github.com/PHPMailer/PHPMailer.git
+[submodule "pifu-php"]
+	path = pifu-php
+	url = https://github.com/datagutten/pifu-php.git
